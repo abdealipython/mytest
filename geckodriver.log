@@ -1,0 +1,217 @@
+1667315616733	geckodriver	INFO	Listening on 127.0.0.1:58511
+1667315619865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileCwO8CE"
+1667315621188	Marionette	INFO	Marionette enabled
+1667315621198	Marionette	INFO	Listening on port 58525
+Read port: 58525
+WebDriver BiDi listening on ws://127.0.0.1:58512
+1667315621443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileCwO8CE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58512/devtools/browser/2035e70a-ae1d-4051-91a0-163354bb1d8c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667315628960	Marionette	INFO	Stopped listening on port 58525
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofileCwO8CE\protections.sqlite
+1667315728779	geckodriver	INFO	Listening on 127.0.0.1:58703
+1667315731876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilej3XjZM"
+1667315732829	Marionette	INFO	Marionette enabled
+1667315732840	Marionette	INFO	Listening on port 58715
+Read port: 58715
+WebDriver BiDi listening on ws://127.0.0.1:58704
+1667315733023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilej3XjZM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58704/devtools/browser/a73b49cc-0acd-4ef7-bdba-4c823e61a5dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667315739064	Marionette	INFO	Stopped listening on port 58715
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofilej3XjZM\protections.sqlite
+1667315743568	geckodriver	INFO	Listening on 127.0.0.1:58794
+1667315746678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileiKMecB"
+1667315747625	Marionette	INFO	Marionette enabled
+1667315747632	Marionette	INFO	Listening on port 58807
+Read port: 58807
+WebDriver BiDi listening on ws://127.0.0.1:58795
+1667315747822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileiKMecB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58795/devtools/browser/904a77a1-a462-4a69-a4dc-12c2b3e309ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667315754331	Marionette	INFO	Stopped listening on port 58807
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofileiKMecB\protections.sqlite
+1667315862775	geckodriver	INFO	Listening on 127.0.0.1:58941
+1667315865871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile8GoosQ"
+1667315866585	Marionette	INFO	Marionette enabled
+1667315866592	Marionette	INFO	Listening on port 58953
+Read port: 58953
+WebDriver BiDi listening on ws://127.0.0.1:58942
+1667315866816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile8GoosQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58942/devtools/browser/16b55569-7558-47ba-9df1-4e4e71db5cd2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667315872693	Marionette	INFO	Stopped listening on port 58953
+[Parent 42728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667315984934	geckodriver	INFO	Listening on 127.0.0.1:59095
+1667315988021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilei9wFcj"
+1667315988868	Marionette	INFO	Marionette enabled
+1667315988878	Marionette	INFO	Listening on port 59109
+Read port: 59109
+WebDriver BiDi listening on ws://127.0.0.1:59096
+1667315989085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilei9wFcj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59096/devtools/browser/940fb35f-0b8a-4461-a032-6fd0191af30d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667315995204	Marionette	INFO	Stopped listening on port 59109
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofilei9wFcj\protections.sqlite
+1667315999664	geckodriver	INFO	Listening on 127.0.0.1:59239
+1667316002694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilebMUcLP"
+1667316003573	Marionette	INFO	Marionette enabled
+1667316003587	Marionette	INFO	Listening on port 59251
+Read port: 59251
+WebDriver BiDi listening on ws://127.0.0.1:59240
+1667316003853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilebMUcLP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59240/devtools/browser/95aee8de-ebcc-4d69-9a7f-d16fab25b7af
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667316009689	Marionette	INFO	Stopped listening on port 59251
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1667316013722	geckodriver	INFO	Listening on 127.0.0.1:59328
+1667316016769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile623bI1"
+1667316017597	Marionette	INFO	Marionette enabled
+1667316017609	Marionette	INFO	Listening on port 59340
+Read port: 59340
+WebDriver BiDi listening on ws://127.0.0.1:59329
+1667316017906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile623bI1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59329/devtools/browser/fdb46094-5164-40b6-82d8-be7c79a1f49a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667316024002	Marionette	INFO	Stopped listening on port 59340
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofile623bI1\protections.sqlite
+1667316411855	geckodriver	INFO	Listening on 127.0.0.1:53660
+1667316414871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilesnxM8Q"
+1667316415698	Marionette	INFO	Marionette enabled
+1667316415709	Marionette	INFO	Listening on port 53693
+Read port: 53693
+WebDriver BiDi listening on ws://127.0.0.1:53661
+1667316416014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileFS7KGO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53661/devtools/browser/5b037403-f057-465a-aefa-f95751d68399
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn:console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667316426825	Marionette	INFO	Stopped listening on port 53688
+n connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofilesnxM8Q\protections.sqlite
+1667316663629	geckodriver	INFO	Listening on 127.0.0.1:54195
+1667316666771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileuFfAbx"
+1667316667637	Marionette	INFO	Marionette enabled
+1667316667655	Marionette	INFO	Listening on port 54223
+Read port: 54222
+WebDriver BiDi listening on ws://127.0.0.1:54196
+1667316667926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileDFDiDO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54190/devtools/browser/40d94dea-4f0a-4b50-a76e-f8a8bb091766
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667316679002	Marionette	INFO	Stopped listening on port 54221
+ port 54222
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofileuFfAbx\protections.sqlite
+tdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofileDFDiDO\protections.sqlite
+1667364288280	geckodriver	INFO	Listening on 127.0.0.1:58137
+1667364291663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileAfAkWg"
+1667364294588	Marionette	INFO	Marionette enabled
+1667364294621	Marionette	INFO	Listening on port 58170
+Read port: 58170
+WebDriver BiDi listening on ws://127.0.0.1:58140
+1667364295337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileamXXwJ\\search.json.mozlz4", (void 0)))
+DevTools listeconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667364330660	Marionette	INFO	Stopped listening on port 58167
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofileamXXwJ\protections.sqlite
+uts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3782,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","chrome://global/content/elements/browser-custom-element.js:get loadContext:387","chrome://global/content/elements/browser-custom-element.js:construct:986","chrome://global/content/elements/browser-custom-element.js:connectedCallback:325","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:414","chrome://browser/content/tabbrowser.js:init:58","chrome://browser/content/browser.js:onDOMContentLoaded:1695"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofile684uUF\protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+1667364766005	geckodriver	INFO	Listening on 127.0.0.1:62974
+1667364768408	mozrunner::runner	INFO	Running command: "C:\\P1667364769505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62980" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Us1667364775339	Marionette	INFO	Marionette enabled
+16673647751667364776130	Marionette	INFO	Marionette enabled
+166736477629WebDriver BiDi listening on ws://127.0.0.1:62975
+Read port:WebDriv1667364779063	RemRead port: 63009
+1667364784474	RemoteAgent	WARN	TLS certificate errors console.error: Region.jsm: "Error fetching console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "console.warn: SearchSettings: "get: No settconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofiDevTools listening on ws://127.0.0.1:62972/DevTools listening on ws://127.0.0.1:62980/devtools/broconsole.warn: LoginRecipes: "Falliconsole.wconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronconsole.warn: LoginRecipes: "Falliconsole.warn: LoginRecipes: "Falling back to a synchronous messaconsole.warn: LoginRecipes: "Falliconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667364940247	Marionette	INFOconsole.error: (new Error("Sessionconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+, 380))
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- nsThread::Shutdown: Untrusted Modules
+1667393571993	geckodriver	INFO	Listening on 127.0.0.1:56658
+1667393575096	mozrunner::runner	INFO	Running command: "C:\\P1667393575464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile0OOlsS"
+1667393671548	geckodriver	INFO	Listening on 127.0.0.1:57175
+1667393674605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57176" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilelIP0Kg"
+1667393675250	Marionette	INFO	Marionette enabled
+1667393675258	Marionette	INFO	Listening on port 57211
+Read port: 57209
+WebDriver BiDi listening on ws://127.0.0.1:57174
+1667393675497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofilelIP0Kg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57174/devtools/browser/f2e18bb3-8e6c-4f7a-9dd0-3b999ac50d7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667393693097	Marionette	INFO	Stopped listening on port 57211
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofile14szMN\protections.sqlite
+1667396987723	geckodriver	INFO	Listening on 127.0.0.1:62079
+1667396990798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofileBlhZfG"
+1667396991563	Marionette	INFO	Marionette enabled
+1667396991572	Marionette	INFO	Listening on port 62109
+WebDriver BiDi listening on ws://127.0.0.1:62081
+Read port: 62109
+1667396991870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABDEAL~1\\AppData\\Local\\Temp\\rust_mozprofile8MxAzN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62077/devtools/browser/8a84359f-c7a1-4928-bc4c-8f861a5c73f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+1667397034157	Marionette	INFO	Stopped listening on port 62108
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://dev.alnafi.com."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\ABDEAL~1\AppData\Local\Temp\rust_mozprofile8MxAzN\protections.sqlite
+s.sqlite#0: waiting for shutdown"
